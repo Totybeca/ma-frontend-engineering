@@ -1,0 +1,56 @@
+#pics{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    border-width: thin medium thick 10px;
+    border: 3px whitesmoke solid;
+    
+}
+#first{
+    background-color: rgb(1, 1, 31);
+    padding: 20px;
+    border-width: thin medium thick 10px;
+    border-radius: 10px;
+    border: 5px aqua solid;
+}
+#name{
+    font-size: larger;
+    color: white;
+    text-align: center;
+}
+#front{
+    color: red;
+    text-align: center;
+}
+h2{
+    color: whitesmoke;
+    text-align: center;
+    line-height: 8px;
+}
+h3{
+    color:red;
+    font-family:sans-serif;
+    font-size: x-large;
+}
+.edu{
+    line-height: 25px;
+    
+}
+hr{
+    border-top: 1px solid red;
+}
+i{
+    opacity:0.5;
+}
+.front{
+    line-height: 25px; 
+}
+.skill{
+    line-height: 8px; 
+}
+body{
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
