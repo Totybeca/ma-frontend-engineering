@@ -1,3 +1,1 @@
-0x03. ES6 data manipulation
-
-Resources
+Resume
