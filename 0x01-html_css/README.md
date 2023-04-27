@@ -1,2 +1,3 @@
-#Resume
-This project is on resume.
+# Project 
+# Resume
+This project is about my resume as an aspiring frontend engineer..
